@@ -49,5 +49,3 @@ minha-jornada-qa/
 ---
 
 > *"Qualidade não é um ato, é um hábito."* — Aristóteles
-# -minha-jornada-qa
-Registro da minha evolução em QA
